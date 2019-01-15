@@ -23,7 +23,7 @@ author:
   github: nijogeorgep
   linkedin: nijogeorgep
   twitter: nijogeorgep
-  gavatar: /resumecard/assets/img/avatar.JPG
+  gavatar: /resume/assets/img/avatar.JPG
   stackoverflow:
 #  stackoverflow: 4582127
   workHistory:
@@ -33,28 +33,28 @@ author:
       title: Java Developer
       started: 2019
       duration: (2019 - Present)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      description: I am not a description. I am not description.I am not description.
     - work2:
       company: Cognizant
       location: Kochi, Kerala, India
       title: Java Developer
       started: 2016
       duration: (2016 - 2019)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      description: I am not a description. I am not description.I am not description.
     - work3:
       company: Ndimensionz
       location: Kochi, Kerala, India
       title: Java Developer
       started: 2014
       duration: (2014 - 2016)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      description: I am not a description. I am not description.I am not description.
     - work4:
       company: Dieutek Developments
       location: Kochi, Kerala, India
       title: Java Developer
       started: 2011
       duration: (2011 - 2014)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.  
+      description: I am not a description. I am not description.I am not description.
   educationHistory:
     - education1:
       organization: Bharathiar University
@@ -63,7 +63,7 @@ author:
       major: Computer Application
       started: 2012
       duration: (2012 - 2015)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      description: I am not a description. I am not description.I am not description. I am not a description.
     - education2:
       organization: Bangalore University
       location: Bangalore, Karnataka, India
@@ -71,7 +71,7 @@ author:
       major: Computer Application
       started: 2007
       duration: (2007 - 2010)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.  
+      description: I am not a description. I am not description.I am not description. I am not a description.
   languages:
     - language1:
       name: Malayalam
