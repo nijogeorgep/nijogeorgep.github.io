@@ -2,10 +2,10 @@
 title: Nijo George's CV 
 description: nijogeorgep's CV
 favicon: /assets/img/avatar.JPG
-baseurl: https://nijogeorgep.github.io/resume
+baseurl: https://nijogeorgep.github.io/
 url: https://nijogeorgep.github.io/resume
 rss_url: /pages/atom.xml
-#google_analytics: UA-63653234-1
+google_analytics: UA-132456412-1
 
 # Build settings
 markdown: kramdown
