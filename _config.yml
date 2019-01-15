@@ -2,7 +2,7 @@
 title: Nijo George's CV 
 description: nijogeorgep's CV
 favicon: /assets/img/avatar.JPG
-baseurl: https://nijogeorgep.github.io/
+baseurl: https://nijogeorgep.github.io/resume
 url: https://nijogeorgep.github.io/resume
 rss_url: /pages/atom.xml
 google_analytics: UA-132456412-1
@@ -32,28 +32,28 @@ author:
       title: Java Developer
       started: 2019
       duration: (2019 - Present)
-      description: I am not a description. I am not description.I am not description.
+      description: I am not a description. I am not description.I am not description.I am not a description. I am not description.I am not description.
     - work2:
       company: Cognizant
       location: Kochi, Kerala, India
       title: Java Developer
       started: 2016
       duration: (2016 - 2019)
-      description: I am not a description. I am not description.I am not description.
+      description: I am not a description. I am not description.I am not description.I am not a description. I am not description.I am not description.
     - work3:
       company: Ndimensionz
       location: Kochi, Kerala, India
       title: Java Developer
       started: 2014
       duration: (2014 - 2016)
-      description: I am not a description. I am not description.I am not description.
+      description: I am not a description. I am not description.I am not description.I am not a description. I am not description.I am not description.
     - work4:
       company: Dieutek Developments
       location: Kochi, Kerala, India
       title: Java Developer
       started: 2011
       duration: (2011 - 2014)
-      description: I am not a description. I am not description.I am not description.
+      description: I am not a description. I am not description.I am not description.I am not a description. I am not description.I am not description.
   educationHistory:
     - education1:
       organization: Bharathiar University
@@ -62,7 +62,7 @@ author:
       major: Computer Application
       started: 2012
       duration: (2012 - 2015)
-      description: I am not a description. I am not description.I am not description. I am not a description.
+      description: I am not a description. I am not description.I am not description. I am not a description.I am not a description. I am not description.I am not description.
     - education2:
       organization: Bangalore University
       location: Bangalore, Karnataka, India
@@ -70,7 +70,7 @@ author:
       major: Computer Application
       started: 2007
       duration: (2007 - 2010)
-      description: I am not a description. I am not description.I am not description. I am not a description.
+      description: I am not a description. I am not description.I am not description. I am not a description.I am not a description. I am not description.I am not description.
   languages:
     - language1:
       name: Malayalam
@@ -87,13 +87,22 @@ author:
       percentage: 100%
     - skill2:
       name: Bootstrap
-      percentage: 90%
+      percentage: 80%
     - skill3:
       name: JavaScript
       percentage: 70%
     - skill4:
-      name: AngularJS
+      name: Angular
       percentage: 70%
     - skill5:
       name: Java/Java EE
+      percentage: 100%
+    - skill6:
+      name: Spring
       percentage: 90%
+    - skill7:
+      name: SQL
+      percentage: 70%
+    - skill8:
+      name: AWS
+      percentage: 75%
