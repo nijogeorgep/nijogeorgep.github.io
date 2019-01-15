@@ -1,9 +1,9 @@
 # Site settings
 title: Nijo George's CV 
 description: nijogeorgep's CV
-favicon: /assets/img/avatar.JPG
+favicon: /resume/assets/img/avatar.JPG
 baseurl: https://nijogeorgep.github.io/resume
-url: https://nijogeorgep.github.io
+url: https://nijogeorgep.github.io/resume
 rss_url: /pages/atom.xml
 google_analytics: UA-132456412-1
 
@@ -18,7 +18,7 @@ author:
   title: Java Developer
   address: Kochi, Kerala, India
   email: nijomon@gmail.com
-  link: http://nijogeorgep.com
+  #link: http://nijogeorgep.com
   weibo:
   github: nijogeorgep
   linkedin: nijogeorgep
