@@ -1,7 +1,7 @@
 # Site settings
 title: Nijo George's CV 
 description: nijogeorgep's CV
-favicon: /resume/assets/img/avatar.JPG
+favicon: /assets/img/avatar.JPG
 baseurl: https://nijogeorgep.github.io/resume
 url: https://nijogeorgep.github.io/resume
 rss_url: /pages/atom.xml
